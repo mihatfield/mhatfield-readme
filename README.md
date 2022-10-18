@@ -1,16 +1,19 @@
 
 <h1 align="center"> The Mike Hatfield README </h1> <br>
-        <p align="center">
+        <!-- <p align="center">
 <a href="https://drive.google.com/uc?export=view&id=1oMK-2EMHqAhkBpTIT-Um19nB_osnixRM" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1oMK-2EMHqAhkBpTIT-Um19nB_osnixRM" alt="La Famila" style="height: auto !important;width: auto !important;" ></a>
+</p> -->
 
 
 
+</br>
+
+![la famila](img/la_famila.jpeg?raw=true "la famila")
 <p align="center">
 <a href="https://github.githubassets.com/images/icons/emoji/unicode/261d.png?v8" target="_blank"><img src="https://github.githubassets.com/images/icons/emoji/unicode/261d.png?v8" alt="La Famila" style="height: 23px !important;width: auto !important;" ></a>
   The only reasonable picture I could find of my family in the previous 2 years. 
 </p>
 </br>
-
 
 
 [![GitHub Issues](https://img.shields.io/github/issues/mihatfield/mhatfield-readme)](https://github.com/mihatfield/mhatfield-readme) [![Current Version](https://img.shields.io/badge/version-0.1.0-green.svg)](https://github.com/IgorAntun/node-chat)
