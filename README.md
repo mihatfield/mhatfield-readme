@@ -90,7 +90,7 @@ Building trust around mutual goals
 
 ---
 ## The Team
-`If I describe my ideal for our team and each person on it, it is that we:`
+**If I describe my ideal for our team and each person on it, it is that we:**
 - Take control of and responsibility for our own destiny
 - We have each others back
 - Expect excellence in ourselves and one another
