@@ -102,6 +102,6 @@ Building trust around mutual goals
 
 
 ## License
->I stole this concept from some Engineering manager at Netflix so whatever license he used is what I'm using. 
+>I ~~stole~~ reused this concept from some Engineering manager at Netflix so whatever license he used is what I'm using. 
 
 
